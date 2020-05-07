@@ -5,7 +5,7 @@ Baixe em sua maquina e comece a testar, instale o drive do navegar que você des
 <html>
   <head><head>
     <body>
-        <img src="https://thumbs.gfycat.com/AncientTightJenny-mobile.mp4">
+        <img src="https://px.gfycat.com/px.gif?gfyid=bountifulfaroffcolt&context=%2Fbountifulfaroffcolt&app_id=com.gfycat.website&utc=085fd13d-4223-4cd4-976b-e3ebd5434341&stc=4403eaa8-df0d-4518-94bb-c13c3821b854&cache=1588890546560">
     </body>
 </html>
 Nesse exemplo eu usei o drive do google-chrome, mas tbm podia usar qualquer outro drive:
