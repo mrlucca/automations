@@ -5,7 +5,7 @@ Baixe em sua maquina e comece a testar, instale o drive do navegar que você des
 <html>
   <head><head>
     <body>
-        <source src="https://thumbs.gfycat.com/AncientTightJenny-mobile.mp4">
+        <img src="https://thumbs.gfycat.com/AncientTightJenny-mobile.mp4">
     </body>
 </html>
 Nesse exemplo eu usei o drive do google-chrome, mas tbm podia usar qualquer outro drive:
